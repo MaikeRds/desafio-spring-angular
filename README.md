@@ -38,7 +38,7 @@ Dockerização (opcional)
 ### Pontos de Avaliação no Desafio Técnico:
 - Organização do código.
 - Adoção de boas práticas no Spring e Angular.
-- Uso correto de APIs RESTful e Angular Services.
+- Adoção de boas práticas na implementação de APIs.
 - Implementação de autenticação (JWT ou Basic Auth).
 - Qualidade da interface e usabilidade do sistema.
 
